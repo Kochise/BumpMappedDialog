@@ -2,6 +2,8 @@
 
 Windows MFC program to display a bump mapped dialog box
 
+![BumpMappedDialog](https://raw.githubusercontent.com/Kochise/BumpMappedDialog/master/BumpMappedDialog.png)
+
 * Hardware and software needed
 
 You need the following to get this program working :
