@@ -20,4 +20,4 @@ You can drag the dialog box, press Escape to escape. Press space bar to change t
 
 * Some infos
 
-Saves the sources on a magneto optical cartidge (Fujitsu). Left the cartidge in the drive to speed up the boot process, after a while both the cartidge and the drive went down. Lost the sources and 200 euros. Never leave a mo cartidge in the drive.
+Saved the sources on a magneto optical cartidge (Fujitsu). Left the cartidge in the drive to speed up the boot process, after a while both the cartidge and the drive went down. Lost the sources and more 200 euros. Never ever leave a magneto optical cartidge in the drive.
